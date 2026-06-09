@@ -1,0 +1,30 @@
+---
+namespace: rhis
+name: core
+version: 0.1.0
+readme: README.md
+description: >
+  Core shared utilities and common patterns for the RHIS (Red Hat Infrastructure
+  Services) namespace. Provides the foundational building blocks consumed by
+  rhis.satellite, rhis.idm, rhis.aap, rhis.bootstrap, and other RHIS collections.
+
+authors:
+  - parmstro <parmstro@redhat.com>
+
+license:
+  - GPL-2.0-or-later
+
+tags:
+  - rhis
+  - infrastructure
+  - satellite
+  - idm
+  - aap
+  - redhat
+
+repository: https://github.com/parmstro/rhis-collection-core
+documentation: https://github.com/parmstro/rhis-collection-core
+issues: https://github.com/parmstro/rhis-collection-core/issues
+homepage: https://github.com/parmstro/rhis-collection-core
+
+dependencies: {}
